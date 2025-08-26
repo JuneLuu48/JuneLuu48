@@ -2,10 +2,10 @@
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGoxcmdmbXp5bnRncDd0aXExdG42Z2w4OXByZHprcHJ6amM2YjUwbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" />
 
 - 🔭 I'm passionate about building applications.
-- 🥅 Favorite Quote: 地図に残る仕事 (Chizu ni nokoru shigoto) – “Work that remains on the map.”
-- ⚡ Fun fact: I'm a big fan of CSI movies q(≧▽≦q).
+- 🥅 Favorite Quote:
+- ⚡ Fun fact: .
 - 🌱 Currently learning: Cloud-native development and clean architecture principles.
-- 💡 Always curious about: AI-powered apps, edge computing, and sustainable tech.
+- 💡 Always curious about: AI-powered apps, edge computing, and sustainable tech
 - 🎯 Goal this year: Contribute to 3 open-source projects and publish a technical blog series.
 - 🧠 Motto: "Learn by doing, grow by sharing."
 - 💬 Ask me about: Front-end development, .NET MAUI, or building scalable web apps.
