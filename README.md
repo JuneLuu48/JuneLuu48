@@ -1,4 +1,4 @@
-## Hi there :wave: I'm Gemma - [June Luu]🌱 
+## Hi there :wave: I'm June - [Buu Quan Luu]🌱 
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGoxcmdmbXp5bnRncDd0aXExdG42Z2w4OXByZHprcHJ6amM2YjUwbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" />
 
 - 🔭 I'm passionate about building applications.
