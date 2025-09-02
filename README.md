@@ -32,7 +32,6 @@
 </p>
 
 
-
 #### Platforms
 <p align="center">
   <img alt="Power BI" src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=white" />
