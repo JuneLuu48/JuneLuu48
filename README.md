@@ -8,13 +8,8 @@
 - 💡 Always curious about: data-driven strategies, sustainable tech, AI for decision-making
 - 🎯 Goal this year: landing your first role with strong analytics & ICT BA portfolio.
 - 🧠 Motto: "ICT is the engine, analytics is the driver."
-- 💬 Ask me about: Business Analytics, Data Analysis, Data Visualization & Governance (SQL, Power BI, R, Excel), ERP systems, .
+- 💬 Ask me about: Business Analysis, Data Analysis, Data Visualization & Governance (SQL, Power BI, R, Excel), ERP systems, .
 - 🌐 I speak tech and languages: Fluent in Vietnamese 🇻🇳 | English 🇦🇺 | Mandarin 🇨🇳 | Cantonese 🇭🇰
- I speak tech and languages:  
-- Vietnamese 🇻🇳  
-- English 🇦🇺  
-- Mandarin 🇨🇳  
-- Cantonese 🇭🇰  
 
 ## Technology Stack 
 ### Languages
