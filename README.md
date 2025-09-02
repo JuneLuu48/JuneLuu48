@@ -11,6 +11,13 @@
 - 💬 Ask me about: Business Analytics, Data Analysis, Data Visualization & Governance (SQL, Power BI, R, Excel), ERP systems, .
 - 🌐 I speak tech and languages: Fluent in Vietnamese 🇻🇳 | English 🇦🇺 | Mandarin 🇨🇳 | Cantonese 🇭🇰
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Vietnamese-🇻🇳-red?style=for-the-badge">
+  <img src="https://img.shields.io/badge/English-🇦🇺-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Mandarin-🇨🇳-red?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Cantonese-🇭🇰-darkred?style=for-the-badge">
+</p>
+
 ## Technology Stack 
 ### Languages
 <p align="center"> 
