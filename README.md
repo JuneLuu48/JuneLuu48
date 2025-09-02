@@ -36,7 +36,6 @@
 #### Platforms
 <p align="center">
   <img alt="Power BI" src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=white" />
-  <img alt="Azure" src="https://img.shields.io/badge/Azure-4cc9f0?style=for-the-badge&logo=microsoftazure&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img alt="Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-003f88?style=for-the-badge&logo=mysql&logoColor=white" />
