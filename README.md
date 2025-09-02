@@ -13,14 +13,12 @@
 
 ## Technology Stack 
 ### Languages
-#### Platforms
-<p align="center">
-  <img alt="Power BI" src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=white" />
-  <img alt="Azure" src="https://img.shields.io/badge/Azure-4cc9f0?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img alt="Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-003f88?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img alt="RStudio" src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=r&logoColor=white" />
+<p align="center"> 
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"> 
+  <img src="https://img.shields.io/badge/C%23-480ca8?style=for-the-badge&logo=csharp&logoColor=white"> 
+  <img src="https://img.shields.io/badge/JavaScript-ffd60a?style=for-the-badge&logo=javascript&logoColor=black"> 
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"> 
+  <img src="https://img.shields.io/badge/SQL-f18701?style=for-the-badge&logo=mysql&logoColor=white"> 
 </p>
 
 
@@ -37,10 +35,12 @@
 
 #### Platforms
 <p align="center">
-  <img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img alt="Power BI" src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=white" />
   <img alt="Azure" src="https://img.shields.io/badge/Azure-4cc9f0?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-  <img alt="Firebase" src="https://img.shields.io/badge/Firebase-9a031e?style=for-the-badge&logo=firebase&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img alt="Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-003f88?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img alt="RStudio" src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=r&logoColor=white" />
 </p>
 
 
