@@ -1,36 +1,26 @@
 ## Hi there :wave: I'm June - [Buu Quan Luu]🌱 
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGoxcmdmbXp5bnRncDd0aXExdG42Z2w4OXByZHprcHJ6amM2YjUwbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" />
 
-- 🔭 I'm passionate about building applications.
-- 🥅 Favorite Quote:
-- ⚡ Fun fact: .
-- 🌱 Currently learning: Cloud-native development and clean architecture principles.
-- 💡 Always curious about: AI-powered apps, edge computing, and sustainable tech
-- 🎯 Goal this year: Contribute to 3 open-source projects and publish a technical blog series.
-- 🧠 Motto: "Learn by doing, grow by sharing."
-- 💬 Ask me about: Front-end development, .NET MAUI, or building scalable web apps.
-- 🌐 I speak tech and languages: Fluent in Vietnamese 🇻🇳, English 🇦🇺, and Japanese 🇯🇵.
+- 🔭 I'm passionate about **turning data into insights** & **technology to drive smarter business decisions**.
+- 🥅 Favorite Quote: "穷则变，变则通，通则久" - When things reach an extreme, they change; with change comes adaptability; with adaptability comes sustainability
+- ⚡ Fun fact: I love exploring the newest tech gadgets
+- 🌱 Currently learning: Advanced in SQL and Excel, BI-ERP integration, Business process modeling, Data governance using Blockchain.
+- 💡 Always curious about: data-driven strategies, sustainable tech, AI for decision-making
+- 🎯 Goal this year: landing your first role with strong analytics & ICT BA portfolio.
+- 🧠 Motto: "ICT is the engine, analytics is the driver."
+- 💬 Ask me about: Business Analytics, Data Analysis, Data Visualization & Governance (SQL, Power BI, R, Excel), ERP systems, .
+- 🌐 I speak tech and languages: Fluent in Vietnamese 🇻🇳 | English 🇦🇺 | Mandarin 🇨🇳 | Cantonese 🇭🇰
 
 ## Technology Stack 
-### Languages & Frameworks
-#### Languages
+### Languages
+#### Platforms
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-  <img src="https://img.shields.io/badge/C%23-480ca8?style=for-the-badge&logo=csharp&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-ffd60a?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/HTML-ff5400?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS-4361ee?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/Xamarin-4cc9f0?style=for-the-badge&logo=xamarin&logoColor=white">
-  <img src="https://img.shields.io/badge/SQL-f18701?style=for-the-badge&logo=mysql&logoColor=white">
-</p>
-
-
-#### Frameworks
-<p align="center">
-  <img alt="React.js" src="https://img.shields.io/badge/React.js-00a7e1?style=for-the-badge&logo=react&logoColor=white">
-  <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7209b7?style=for-the-badge&logo=bootstrap&logoColor=white">
-  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-4361ee?style=for-the-badge&logo=tailwindcss&logoColor=white">
+  <img alt="Power BI" src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=white" />
+  <img alt="Azure" src="https://img.shields.io/badge/Azure-4cc9f0?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img alt="Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-003f88?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img alt="RStudio" src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=r&logoColor=white" />
 </p>
 
 
