@@ -1,5 +1,5 @@
 ## Hi there :wave: I'm June - [Buu Quan Luu]🌱 
-<img align="right" width=200px height=200px alt="side_sticker" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGoxcmdmbXp5bnRncDd0aXExdG42Z2w4OXByZHprcHJ6amM2YjUwbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" />
+<img align="right" width=200px height=200px alt="side_sticker" src=".gif" />
 
 - 🔭 I'm passionate about **turning data into insights** & **technology to drive smarter business decisions**.
 - 🥅 Favorite Quote: "穷则变，变则通，通则久" - When things reach an extreme, they change; with change comes adaptability; with adaptability comes sustainability
