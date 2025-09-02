@@ -18,7 +18,7 @@
   <img src="https://img.shields.io/badge/JavaScript-ffd60a?style=for-the-badge&logo=javascript&logoColor=black"> 
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"> 
   <img src="https://img.shields.io/badge/SQL-f18701?style=for-the-badge&logo=mysql&logoColor=white"> 
-  <img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=r&logoColor=white">
+  <img src="https://img.shields.io/badge/R-75AADB?style=for-the-badge&logo=r&logoColor=white">
 </p>
 
 
