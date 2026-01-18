@@ -49,7 +49,7 @@
   <a href="mailto:buuquan2004@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-0077B5?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="https://thanhtuyen.vercel.app/">
+  <a href="https://buuquan2004.wixsite.com/juneluu/portfolio">
     <img alt="Website" src="https://img.shields.io/badge/Website-00bbf9?style=for-the-badge&logo=googlechrome&logoColor=white">
   </a>
 </p>
