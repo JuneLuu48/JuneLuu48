@@ -44,8 +44,8 @@ I am passionate about bridging business needs and technology — turning data an
 - 📊 **Deloitte Data Analytics Job Simulation** (2025)
 - 📋 **Microsoft Office Specialist – PowerPoint** (2022)
 - 🎓 **ASEAN Excellence Scholarship** — University of Newcastle (2024–2025)
-- 🔄 Agile Analysis Cert Prep (IIBA®-AAC) — *In Progress*
-- 📈 Microsoft Office Specialist – Excel Expert — *In Progress*
+- 🔄 **Agile Analysis Cert Prep (IIBA®-AAC)** (2026)
+- 📈 **Microsoft Office Specialist – Excel Expert** (2026)
 
 ---
 
