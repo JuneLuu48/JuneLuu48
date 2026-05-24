@@ -15,11 +15,11 @@ I am passionate about bridging business needs and technology — turning data an
 
 | Project | Focus | Tools |
 |---|---|---|
-| [📊 NLP Decision Support – Apple Customer Reviews](https://github.com/JuneLuu48/nlp-apple-customer-reviews) | Sentiment analysis & topic modelling on 900+ customer reviews | Python, NLTK, Gensim, Scikit-learn |
-| [🔄 TripMate Smart Travel Ecosystem](https://github.com/JuneLuu48/tripmate-smart-travel-bpm) | Business process modelling, AS-IS / TO-BE analysis, system design | BPMN, Draw.io, Figma |
-| [📦 BI-ERP Integration – Target Canada](https://github.com/JuneLuu48/bi-erp-target-canada) | BI-enhanced ERP improvement framework, inventory management analysis | Power BI, Power Query, Excel, OLAP |
-| [🔗 Blockchain Property Transfer System](https://github.com/JuneLuu48/blockchain-property-transfer) | Smart contract-based property ownership escrow system | Blockchain, Data Governance |
-| [🐾 Wildlife Detection – YOLO Object Detection](https://github.com/JuneLuu48/yolo-wildlife-detection) | Multi-agent AI system for real-time wildlife detection | Python, YOLOv8, Jupyter |
+| [📊 NLP Decision Support – Apple Customer Reviews](https://github.com/JuneLuu48/A-Text-Analytics-on-Apple-Customer-Reviews.) | Sentiment analysis & topic modelling on 900+ customer reviews | Python, NLTK, Gensim, Scikit-learn |
+| [🔄 TripMate Smart Travel Ecosystem](https://github.com/JuneLuu48/TripMate-BPM-Implementation-Plan-for-a-Smart-Travel-Ecosystem) | Business process modelling, AS-IS / TO-BE analysis, system design | BPMN, Draw.io, Figma |
+| [📦 BI-ERP Integration – Target Canada](https://github.com/JuneLuu48/Enhancing-Target-Canada-Inventory-Management-Through-BI-ERP-Integration) | BI-enhanced ERP improvement framework, inventory management analysis | Power BI, Power Query, Excel, OLAP |
+| [🔗 Blockchain Property Transfer System](https://github.com/JuneLuu48/Project-on-Blockchain-based-Property-Ownership-Transferring) | Smart contract-based property ownership escrow system | Blockchain, Data Governance |
+| [🐾 Wildlife Detection – YOLO Object Detection](https://github.com/JuneLuu48/Multi-agent-AI-for-wildlife-detection-using-YOLO-object-detection) | Multi-agent AI system for real-time wildlife detection | Python, YOLOv8, Jupyter |
 
 > **Note:** Repository names are being updated to cleaner formats. Links will resolve correctly once renamed in GitHub settings.
 
