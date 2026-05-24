@@ -7,7 +7,7 @@
 
 Business Analytics graduate (Distinction, GPA 6.2/7.0) from the University of Newcastle, with hands-on experience in requirements gathering, business process modelling, data analysis, and BI reporting. At the Newcastle Knights Commercial Team, I developed a data-driven 2-tier Business Club proposal using Power BI and Excel — delivering competitor benchmarking, pricing strategy, target market analysis, and a 3-year financial forecast that projected a **20% improvement in corporate member retention** and accelerated program structure identification by **30%**.
 
-I am passionate about bridging business needs and technology — turning data and process analysis into clear, actionable outputs for stakeholders. Currently seeking junior roles in Business Analysis, ICT Business Analysis, and Data Analysis in Perth, WA.
+I am passionate about bridging business needs and technology — turning data and process analysis into clear, actionable outputs for stakeholders.
 
 ---
 
