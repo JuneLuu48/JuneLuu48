@@ -1,55 +1,59 @@
-## Hi there :wave: I'm June - [Buu Quan Luu]🌱 
-<img align="right" width=200px height=200px alt="side_sticker" src=".gif" />
+# June Luu — Business Analytics Graduate
 
-- 🔭 I'm passionate about **turning data into insights** & **technology to drive smarter business decisions**.
-- 🥅 Favorite Quote: "穷则变，变则通，通则久" - When things reach an extreme, they change; with change comes adaptability; with adaptability comes sustainability
-- ⚡ Fun fact: I love exploring the newest tech gadgets
-- 🌱 Currently learning: Advanced in SQL and Excel, BI-ERP integration, Business process modeling, Data governance using Blockchain.
-- 💡 Always curious about: data-driven strategies, sustainable tech, AI for decision-making
-- 🎯 Goal this year: landing your first role with strong analytics & ICT BA portfolio.
-- 🧠 Motto: "ICT is the engine, analytics is the driver."
-- 💬 Ask me about: Business Analysis, Data Analysis, Data Visualization & Governance (SQL, Power BI, R, Excel), ERP systems, .
-- 🌐 I speak tech and languages: Fluent in Vietnamese 🇻🇳 | English 🇦🇺 | Mandarin 🇨🇳 | Cantonese 🇭🇰
+**Junior Business Analyst · ICT Business Analyst · Data Analyst**  
+📍 Perth, Western Australia &nbsp;|&nbsp; 🌐 [Portfolio](https://buuquan2004.wixsite.com/juneluu) &nbsp;|&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/june-luu-55372227b) &nbsp;|&nbsp; 📧 buuquan2004@gmail.com
 
-## Technology Stack 
-### Languages
-<p align="center"> 
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"> 
-  <img src="https://img.shields.io/badge/JavaScript-ffd60a?style=for-the-badge&logo=javascript&logoColor=black"> 
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"> 
-  <img src="https://img.shields.io/badge/SQL-f18701?style=for-the-badge&logo=mysql&logoColor=white"> 
-  <img src="https://img.shields.io/badge/R-75AADB?style=for-the-badge&logo=r&logoColor=white">
-</p>
+---
 
+Business Analytics graduate (Distinction, GPA 6.2/7.0) from the University of Newcastle, with hands-on experience in requirements gathering, business process modelling, data analysis, and BI reporting. At the Newcastle Knights Commercial Team, I developed a data-driven 2-tier Business Club proposal using Power BI and Excel — delivering competitor benchmarking, pricing strategy, target market analysis, and a 3-year financial forecast that projected a **20% improvement in corporate member retention** and accelerated program structure identification by **30%**.
 
+I am passionate about bridging business needs and technology — turning data and process analysis into clear, actionable outputs for stakeholders. Currently seeking junior roles in Business Analysis, ICT Business Analysis, and Data Analysis in Perth, WA.
 
-### Tools & Platforms
-#### Tools
-<p align="center">
-  <img alt="Git" src="https://img.shields.io/badge/Git-e5383b?style=for-the-badge&logo=git&logoColor=white">
-  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-22223b?style=for-the-badge&logo=github&logoColor=white">
-  <img alt="VSCode" src="https://img.shields.io/badge/VSCode-00a7e1?style=for-the-badge&logo=visualstudiocode&logoColor=white">
-</p>
+---
 
+## 🗂️ Featured Projects
 
-#### Platforms
-<p align="center">
-  <img alt="Power BI" src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=white" />
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img alt="Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-003f88?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img alt="RStudio" src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=r&logoColor=white" />
-</p>
+| Project | Focus | Tools |
+|---|---|---|
+| [📊 NLP Decision Support – Apple Customer Reviews](https://github.com/JuneLuu48/nlp-apple-customer-reviews) | Sentiment analysis & topic modelling on 900+ customer reviews | Python, NLTK, Gensim, Scikit-learn |
+| [🔄 TripMate Smart Travel Ecosystem](https://github.com/JuneLuu48/tripmate-smart-travel-bpm) | Business process modelling, AS-IS / TO-BE analysis, system design | BPMN, Draw.io, Figma |
+| [📦 BI-ERP Integration – Target Canada](https://github.com/JuneLuu48/bi-erp-target-canada) | BI-enhanced ERP improvement framework, inventory management analysis | Power BI, Power Query, Excel, OLAP |
+| [🔗 Blockchain Property Transfer System](https://github.com/JuneLuu48/blockchain-property-transfer) | Smart contract-based property ownership escrow system | Blockchain, Data Governance |
+| [🐾 Wildlife Detection – YOLO Object Detection](https://github.com/JuneLuu48/yolo-wildlife-detection) | Multi-agent AI system for real-time wildlife detection | Python, YOLOv8, Jupyter |
 
+> **Note:** Repository names are being updated to cleaner formats. Links will resolve correctly once renamed in GitHub settings.
 
+---
 
-## 📫 Contact me via:
+## 🛠️ Technical Skills
 
-<p align="center">
-  <a href="mailto:buuquan2004@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-0077B5?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://buuquan2004.wixsite.com/juneluu">
-    <img alt="Website" src="https://img.shields.io/badge/Website-00bbf9?style=for-the-badge&logo=googlechrome&logoColor=white">
-  </a>
-</p>
+**Business Analysis**
+`Requirements Gathering` `Stakeholder Engagement` `Process Mapping` `AS-IS / TO-BE Analysis` `Gap Analysis` `Root Cause Analysis` `Business Case Development` `BPMN` `SDLC` `Agile / Scrum`
+
+**Data & BI**
+`Power BI` `DAX` `Power Query` `Excel` `SQL` `Tableau` `Python` `R Studio` `Data Visualisation` `Dashboard Development` `Operational Reporting`
+
+**Tools & Platforms**
+`JIRA` `SharePoint` `Git` `MongoDB` `Figma` `Microsoft Office Suite`
+
+---
+
+## 🏅 Certifications
+
+- 🏆 **Microsoft Certified: Power BI Data Analyst Associate** (2025)
+- 📊 **Deloitte Data Analytics Job Simulation** (2025)
+- 📋 **Microsoft Office Specialist – PowerPoint** (2022)
+- 🎓 **ASEAN Excellence Scholarship** — University of Newcastle (2024–2025)
+- 🔄 Agile Analysis Cert Prep (IIBA®-AAC) — *In Progress*
+- 📈 Microsoft Office Specialist – Excel Expert — *In Progress*
+
+---
+
+## 💬 About Me
+
+- 🔭 Passionate about **turning data into insights** and using technology to drive smarter business decisions
+- 🧠 Motto: *"ICT is the engine, analytics is the driver."*
+- 🌐 Languages: English 🇦🇺 · Vietnamese 🇻🇳 · Mandarin 🇨🇳 · Cantonese 🇭🇰
+- 💡 Always curious about: data-driven strategies, business process improvement, AI for decision-making
+- 🥅 2025 Goal: Secure a junior BA or ICT BA role and keep building a strong analytics portfolio
+- ⚡ Fun fact: I love exploring the newest tech gadgets and travelling to different cultural destinations
